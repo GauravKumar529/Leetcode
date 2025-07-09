@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/GauravKumar529/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GauravKumar529/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/GauravKumar529/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0164-maximum-gap](https://github.com/GauravKumar529/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/GauravKumar529/leetcode/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/GauravKumar529/leetcode/tree/master/0792-binary-search) |
 | [1139-previous-permutation-with-one-swap](https://github.com/GauravKumar529/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GauravKumar529/leetcode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/GauravKumar529/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/GauravKumar529/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/GauravKumar529/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/GauravKumar529/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/GauravKumar529/leetcode/tree/master/0242-valid-anagram) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/GauravKumar529/leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/GauravKumar529/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->

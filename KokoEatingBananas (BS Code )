@@ -1,0 +1,36 @@
+class Solution {
+public:
+int fun(vector<int> &arr, int n){
+    int maxi = INT_MIN;
+    for(int i = 0;i<n;i++){
+        if(arr[i] > maxi ) maxi  = arr[i];
+    }
+    return maxi;
+}
+int hoursCnt(vector<int > & arr, int Eaten) {
+    int ans = 0;
+    for(int i = 0;i<arr.size() ;i++){
+        ans = ans + (arr[i] + Eaten - 1) / Eaten;
+    }
+    return ans;
+}
+    int minEatingSpeed(vector<int>& piles, int h) {
+        int n = piles.size();
+        int low = 1;
+        int high = fun(piles , n  );
+        while(low <= high) {
+            int EatenBananas =(low  +  high ) / 2;
+            int res  = hoursCnt(piles , EatenBananas);
+            if(res <= h)  high  = EatenBananas- 1;
+            else low = EatenBananas +1;
+        }
+        return low ;
+
+        
+    }
+};  
+
+// tc -> o(log(max(arr) * n)) //  n  fro the function inside it and log() for Actual BINARY SEARCH \
+
+// What i ,;ll  do is  in this problem , here i tell u , i have to compress the o(n*m) to somehere like o(log() * n) that whyim using BS , 
+// how ? // keep two pointers  ,  find the mid  as eatenbananas , and count the no. of hours for that mid one guy and check it in the next snippet , and when you obsserve that you dont have to declare a container to store ans just dry run for few examples and y will be see taht how it been low as return  

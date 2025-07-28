@@ -1,0 +1,45 @@
+
+class Solution {
+public:
+    using Node = ListNode;
+    
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        if (!headA || !headB) return nullptr;
+        
+        // Step 1: Get lengths
+        Node* temp1 = headA;
+        Node* temp2 = headB;
+        int len1 = 0, len2 = 0;
+        
+        while (temp1) {
+            len1++;
+            temp1 = temp1->next;
+        }
+        while (temp2) {
+            len2++;
+            temp2 = temp2->next;
+        }
+
+        // Step 2: Reset pointers
+        temp1 = headA;
+        temp2 = headB;
+        // now my temp1 and temp 2 is  ll has same length if has , now i ll be traversing in the ll and finding the intersecting Node .
+
+        // Step 3: Move the longer list forward
+        int diff = abs(len1 - len2);
+        if (len1 > len2) {
+            while (diff--) temp1 = temp1->next;
+        } else {
+            while (diff--) temp2 = temp2->next;
+        }
+
+        // Step 4: Move both together
+        while (temp1 && temp2) {
+            if (temp1 == temp2) return temp1;
+            temp1 = temp1->next;
+            temp2 = temp2->next;
+        }
+
+        return nullptr;
+    }
+};

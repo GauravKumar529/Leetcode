@@ -195,4 +195,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0445-add-two-numbers-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/GauravKumar529/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Graph
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/GauravKumar529/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/GauravKumar529/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

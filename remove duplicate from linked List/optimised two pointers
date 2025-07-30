@@ -1,0 +1,23 @@
+Node* removeDuplicates(Node* head)
+{
+    if (head == nullptr || head->next == nullptr) return head;
+
+    Node* curr = head;
+
+    while (curr->next) {
+        Node* nextNode = curr->next;
+
+        if (curr->data == nextNode->data) {
+            curr->next = nextNode->next;
+
+            if (nextNode->next)
+                nextNode->next->prev = curr;// this is A  IMPORTANT POINTS 
+
+            delete nextNode; // optional to free memory that is my mistake 
+        } else {
+            curr = curr->next;
+        }
+    }
+
+    return head;
+}

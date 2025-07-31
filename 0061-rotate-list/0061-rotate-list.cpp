@@ -30,7 +30,7 @@ Node* findNode( Node* head , int val) {
             temp1  = temp1->next ;
 
         }
-        if(k% cnt  == 0) return  head ;
+        if(k% cnt  == 0) return  head ; //  this is also a edge case which i muddes so you have to think abbout null ,one , two , three , all , order ,pattern for finding the edge cases 
         int val = cnt  - k% cnt  ; //  this is a  conceptual pount where i am lagging 
         Node* prevNode = findNode(temp2 , val);
         Node* newHead = prevNode->next ;

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GauravKumar529/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1139-previous-permutation-with-one-swap](https://github.com/GauravKumar529/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/GauravKumar529/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/GauravKumar529/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GauravKumar529/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GauravKumar529/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/GauravKumar529/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/GauravKumar529/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/GauravKumar529/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1139-previous-permutation-with-one-swap](https://github.com/GauravKumar529/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/GauravKumar529/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Union Find
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/GauravKumar529/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GauravKumar529/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/GauravKumar529/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/GauravKumar529/leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## String
 |  |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/GauravKumar529/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GauravKumar529/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
 | ------- |

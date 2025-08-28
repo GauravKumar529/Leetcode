@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/GauravKumar529/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/GauravKumar529/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0454-4sum-ii) |
+| [0493-reverse-pairs](https://github.com/GauravKumar529/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/GauravKumar529/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/GauravKumar529/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/GauravKumar529/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/GauravKumar529/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/GauravKumar529/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GauravKumar529/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/GauravKumar529/Leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravKumar529/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GauravKumar529/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/GauravKumar529/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/GauravKumar529/Leetcode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/GauravKumar529/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/GauravKumar529/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GauravKumar529/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/GauravKumar529/leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/GauravKumar529/Leetcode/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -254,4 +258,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/GauravKumar529/Leetcode/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/GauravKumar529/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/GauravKumar529/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/GauravKumar529/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

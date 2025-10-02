@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0454-4sum-ii) |
 | [0493-reverse-pairs](https://github.com/GauravKumar529/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/GauravKumar529/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/GauravKumar529/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0792-binary-search](https://github.com/GauravKumar529/leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/GauravKumar529/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/GauravKumar529/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/GauravKumar529/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/GauravKumar529/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0646-maximum-length-of-pair-chain](https://github.com/GauravKumar529/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GauravKumar529/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1829-maximum-units-on-a-truck](https://github.com/GauravKumar529/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GauravKumar529/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/GauravKumar529/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/GauravKumar529/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/GauravKumar529/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/GauravKumar529/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/GauravKumar529/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/GauravKumar529/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/GauravKumar529/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/GauravKumar529/Leetcode/tree/master/0890-lemonade-change) |
 | [1139-previous-permutation-with-one-swap](https://github.com/GauravKumar529/leetcode/tree/master/1139-previous-permutation-with-one-swap) |

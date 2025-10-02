@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/GauravKumar529/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/GauravKumar529/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/GauravKumar529/leetcode/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/GauravKumar529/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/GauravKumar529/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GauravKumar529/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1139-previous-permutation-with-one-swap](https://github.com/GauravKumar529/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/GauravKumar529/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0890-lemonade-change](https://github.com/GauravKumar529/Leetcode/tree/master/0890-lemonade-change) |
 | [1139-previous-permutation-with-one-swap](https://github.com/GauravKumar529/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/GauravKumar529/leetcode/tree/master/2032-largest-odd-number-in-string) |

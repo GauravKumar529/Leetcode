@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/GauravKumar529/Leetcode/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/GauravKumar529/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GauravKumar529/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -316,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/GauravKumar529/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0090-subsets-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/GauravKumar529/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/GauravKumar529/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

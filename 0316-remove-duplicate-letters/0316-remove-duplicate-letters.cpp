@@ -1,32 +1,34 @@
 class Solution {
 public:
     string removeDuplicateLetters(string s) {
-        //taking two array biucket sort for, one for duplicacy , another for-> lexographically placing 
+        //string implementation 
         int n = s.size();
-        stack<char> st ;
-        vector<bool> taken(26 , false );
-        vector<int> lastIdx(26); //aplphabet ke liye 
-        for(int i = 0 ; i< n;i++){
-            lastIdx[s[i] -'a'] = i;
+        string res = "";
+        vector<int> LI(26);
+        vector<bool > taken(26 , false );
+        for(int i = 0  ; i < n;i++)
+        {
+            char ch  = s[i];
+            int idx = ch- 'a';
+            LI[idx] = i;
         }
         for(int i = 0 ; i< n;i++){
             char ch = s[i];
-            if(taken[ch - 'a']) continue;
-            while(!st.empty() && st.top() > ch &&lastIdx[st.top() - 'a'] > i){
-                taken[st.top() - 'a'] = false ;
-                st.pop();
+            int idx = ch - 'a';
+            if(taken[idx]) continue ;
+            else {
+                while(res.size() >0 && res.back() > s[i] && LI[res.back() - 'a'] > i){
+                    taken[res.back() - 'a'] = false ;
+                    res.pop_back();
+
+                } 
+                res.push_back(s[i]);
+                taken[idx] = true ;
             }
-            st.push(s[i]) ;
-            taken[ch  - 'a']  = true ;
         }
-        string res  = "";
-        while(!st.empty()) {
-            res += st.top();
+        return res ;
 
-            st.pop();
-        }
-        reverse(res.begin() , res.end());
-        return res;
 
+        
     }
 };

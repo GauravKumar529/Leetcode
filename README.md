@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/GauravKumar529/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/GauravKumar529/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/GauravKumar529/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/GauravKumar529/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/GauravKumar529/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/GauravKumar529/leetcode/tree/master/0053-maximum-subarray) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/GauravKumar529/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GauravKumar529/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/GauravKumar529/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/GauravKumar529/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/GauravKumar529/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/GauravKumar529/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/GauravKumar529/leetcode/tree/master/0125-valid-palindrome) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GauravKumar529/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/GauravKumar529/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/GauravKumar529/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/GauravKumar529/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GauravKumar529/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/GauravKumar529/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/GauravKumar529/Leetcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/GauravKumar529/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/GauravKumar529/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/GauravKumar529/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/GauravKumar529/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |

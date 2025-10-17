@@ -49,3 +49,14 @@ vector<int> findpsse(vector<int>& arr){
         return (int) total; 
     }
 };
+// nse{
+//     st , nsearray , ;
+//     for(n-1-> 0){
+//         while(!st.rmpty() &&  arr[st.top() ] >= arr[i])pop
+//         nse[i] = st.empty()? n: st.top();
+//         st.push(i);
+
+//     }
+//     return nse ;
+
+// }

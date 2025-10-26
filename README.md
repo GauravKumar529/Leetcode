@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/GauravKumar529/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/GauravKumar529/leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2169-simple-bank-system](https://github.com/GauravKumar529/Leetcode/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GauravKumar529/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/GauravKumar529/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GauravKumar529/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/GauravKumar529/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GauravKumar529/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/GauravKumar529/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2169-simple-bank-system](https://github.com/GauravKumar529/Leetcode/tree/master/2169-simple-bank-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/GauravKumar529/Leetcode/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GauravKumar529/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/GauravKumar529/Leetcode/tree/master/0155-min-stack) |
+| [2169-simple-bank-system](https://github.com/GauravKumar529/Leetcode/tree/master/2169-simple-bank-system) |
 ## Breadth-First Search
 |  |
 | ------- |

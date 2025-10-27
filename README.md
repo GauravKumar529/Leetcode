@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/GauravKumar529/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2169-simple-bank-system](https://github.com/GauravKumar529/Leetcode/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/GauravKumar529/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2245-destroying-asteroids](https://github.com/GauravKumar529/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GauravKumar529/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/GauravKumar529/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/GauravKumar529/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/GauravKumar529/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [2047-find-a-peak-element-ii](https://github.com/GauravKumar529/leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/GauravKumar529/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/GauravKumar529/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/GauravKumar529/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/GauravKumar529/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/GauravKumar529/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/GauravKumar529/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bucket Sort
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/GauravKumar529/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/GauravKumar529/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/GauravKumar529/Leetcode/tree/master/2050-count-good-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/GauravKumar529/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

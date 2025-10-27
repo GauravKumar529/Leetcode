@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/GauravKumar529/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2169-simple-bank-system](https://github.com/GauravKumar529/Leetcode/tree/master/2169-simple-bank-system) |
+| [2245-destroying-asteroids](https://github.com/GauravKumar529/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GauravKumar529/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/GauravKumar529/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GauravKumar529/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GauravKumar529/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1829-maximum-units-on-a-truck](https://github.com/GauravKumar529/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2245-destroying-asteroids](https://github.com/GauravKumar529/Leetcode/tree/master/2245-destroying-asteroids) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GauravKumar529/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/GauravKumar529/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Divide and Conquer
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/GauravKumar529/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/GauravKumar529/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2245-destroying-asteroids](https://github.com/GauravKumar529/Leetcode/tree/master/2245-destroying-asteroids) |
 ## Union Find
 |  |
 | ------- |

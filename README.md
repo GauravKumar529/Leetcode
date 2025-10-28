@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/GauravKumar529/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2169-simple-bank-system](https://github.com/GauravKumar529/Leetcode/tree/master/2169-simple-bank-system) |
+| [2227-sum-of-subarray-ranges](https://github.com/GauravKumar529/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/GauravKumar529/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2245-destroying-asteroids](https://github.com/GauravKumar529/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GauravKumar529/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/GauravKumar529/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/GauravKumar529/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/GauravKumar529/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2227-sum-of-subarray-ranges](https://github.com/GauravKumar529/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GauravKumar529/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/GauravKumar529/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/GauravKumar529/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2227-sum-of-subarray-ranges](https://github.com/GauravKumar529/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GauravKumar529/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |

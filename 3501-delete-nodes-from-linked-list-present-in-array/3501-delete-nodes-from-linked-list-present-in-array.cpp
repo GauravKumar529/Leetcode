@@ -23,14 +23,14 @@ public:
 
     // Array → Linked List
     ListNode* arrayToLinkedList(const vector<int>& arr) {
-        if (arr.empty()) return nullptr;
+        if (arr.empty()) return NULL;
 
         ListNode* head = new ListNode(arr[0]);
-        ListNode* tail = head;
+        ListNode* temp = head;
 
         for (int i = 1; i < arr.size(); i++) {
-            tail->next = new ListNode(arr[i]);
-            tail = tail->next;
+            temp->next = new ListNode(arr[i]);
+            temp = temp->next;
         }
         return head;
     }

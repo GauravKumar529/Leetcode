@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/GauravKumar529/leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/GauravKumar529/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/GauravKumar529/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/GauravKumar529/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0943-sum-of-subarray-minimums](https://github.com/GauravKumar529/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GauravKumar529/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1139-previous-permutation-with-one-swap](https://github.com/GauravKumar529/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/GauravKumar529/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravKumar529/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/GauravKumar529/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/GauravKumar529/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GauravKumar529/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GauravKumar529/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GauravKumar529/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/GauravKumar529/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GauravKumar529/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0917-boats-to-save-people](https://github.com/GauravKumar529/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GauravKumar529/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1829-maximum-units-on-a-truck](https://github.com/GauravKumar529/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/GauravKumar529/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/GauravKumar529/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/GauravKumar529/Leetcode/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/GauravKumar529/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1139-previous-permutation-with-one-swap](https://github.com/GauravKumar529/leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/GauravKumar529/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GauravKumar529/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |

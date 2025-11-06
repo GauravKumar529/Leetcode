@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/GauravKumar529/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/GauravKumar529/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/GauravKumar529/Leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/GauravKumar529/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/GauravKumar529/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GauravKumar529/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/GauravKumar529/leetcode/tree/master/0242-valid-anagram) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GauravKumar529/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/GauravKumar529/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GauravKumar529/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/GauravKumar529/Leetcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/GauravKumar529/Leetcode/tree/master/0316-remove-duplicate-letters) |

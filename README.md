@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GauravKumar529/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GauravKumar529/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/GauravKumar529/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/GauravKumar529/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2169-simple-bank-system](https://github.com/GauravKumar529/Leetcode/tree/master/2169-simple-bank-system) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GauravKumar529/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GauravKumar529/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/GauravKumar529/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -341,10 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/GauravKumar529/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/GauravKumar529/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/GauravKumar529/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -383,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/GauravKumar529/Leetcode/tree/master/0493-reverse-pairs) |
+| [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -408,4 +415,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/GauravKumar529/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->

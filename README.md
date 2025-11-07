@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/GauravKumar529/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/GauravKumar529/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/GauravKumar529/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GauravKumar529/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/GauravKumar529/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0454-4sum-ii) |
@@ -284,12 +285,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/GauravKumar529/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/GauravKumar529/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GauravKumar529/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/GauravKumar529/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GauravKumar529/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GauravKumar529/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -423,4 +426,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/GauravKumar529/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/GauravKumar529/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/GauravKumar529/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

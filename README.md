@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/GauravKumar529/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/GauravKumar529/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GauravKumar529/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GauravKumar529/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GauravKumar529/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/GauravKumar529/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/GauravKumar529/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2169-simple-bank-system](https://github.com/GauravKumar529/Leetcode/tree/master/2169-simple-bank-system) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GauravKumar529/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GauravKumar529/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
@@ -282,12 +284,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/GauravKumar529/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GauravKumar529/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GauravKumar529/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/GauravKumar529/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GauravKumar529/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GauravKumar529/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/GauravKumar529/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Linked List

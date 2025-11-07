@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/GauravKumar529/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/GauravKumar529/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/GauravKumar529/Leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/GauravKumar529/Leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/GauravKumar529/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/GauravKumar529/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GauravKumar529/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GauravKumar529/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/GauravKumar529/Leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/GauravKumar529/Leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/GauravKumar529/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/GauravKumar529/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GauravKumar529/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/GauravKumar529/Leetcode/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/GauravKumar529/Leetcode/tree/master/0937-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/GauravKumar529/Leetcode/tree/master/2169-simple-bank-system) |
 ## Breadth-First Search
 |  |
@@ -434,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GauravKumar529/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/GauravKumar529/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/GauravKumar529/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/GauravKumar529/Leetcode/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GauravKumar529/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/GauravKumar529/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/GauravKumar529/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/GauravKumar529/Leetcode/tree/master/2050-count-good-numbers) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/GauravKumar529/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0090-subsets-ii) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GauravKumar529/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/GauravKumar529/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |

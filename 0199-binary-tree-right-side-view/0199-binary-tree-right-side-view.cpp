@@ -11,26 +11,28 @@
  */
 class Solution {
 public:
+int count(TreeNode* root ) {
+    if(!root) return 0;
+    return (1+ max(count(root->left) , count(root->right ))) ;
+
+}
+void  calling (TreeNode* root , int level , vector<int> &res , vector<bool> &vis) {
+    if(!root ) return ;
+    if(!vis[level]) {
+        res.push_back(root->val);
+        vis[level] = true;
+
+    }
+        calling(root->right , level+1 , res, vis);
+        calling(root->left , level+1 , res, vis);
+}
     vector<int> rightSideView(TreeNode* root) {
         vector<int> res ;
         if(!root ) return res ;
+        int total = count(root );
+        vector<bool> vis(total , 0);
 
-        queue<TreeNode* > q ;
-        q.push(root );
-        while(!q.empty()) {
-            int n = q.size();
-            res.push_back(q.front()->val);
-            while(n--) {
-                TreeNode * temp  = q.front ();
-                q.pop();
-                if(temp->right ) q.push(temp->right );
-                if(temp->left ) q.push(temp->left );
-
-            }
-
-        }
-        return res ;
-
-        
+        calling(root , 0 , res  ,vis);
+        return res;
     }
 };

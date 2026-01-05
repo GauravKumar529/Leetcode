@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/GauravKumar529/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0090-subsets-ii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GauravKumar529/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/GauravKumar529/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/GauravKumar529/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GauravKumar529/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/GauravKumar529/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/GauravKumar529/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/GauravKumar529/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/GauravKumar529/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GauravKumar529/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/GauravKumar529/leetcode/tree/master/0075-sort-colors) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/GauravKumar529/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/GauravKumar529/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/GauravKumar529/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/GauravKumar529/Leetcode/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/GauravKumar529/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GauravKumar529/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |

@@ -1,21 +1,25 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        vector<int> res ;
-        sort(nums.begin() , nums.end());
-
         int n = nums.size();
-        int i = 1;
-        while(i< n ){
-            if(nums[i] != nums[i -1] ){
-                res.push_back(nums[i - 1]);
-                i++;
-            }
-            else i+= 2;
+        long long  Xor = 0;
+        for(int i = 0; i < n;i++ ) {
+            Xor  = Xor ^ nums[i];
 
         }
-        if(res.size() == 1) res.push_back(nums[n - 1]);
-        return res ;
+        // mask-> right most set bit - find ;
+         long long  mask = Xor & (~Xor + 1);
+        int g1 = 0, g2 =0;
+        for(int i = 0; i < n;i++) {
+            if(mask & nums[i]) {
+                g1 ^= nums[i];
+
+            }else {
+                g2 ^= nums[i];
+            }
+        }
+        return {g1 , g2};
+
         
     }
 };

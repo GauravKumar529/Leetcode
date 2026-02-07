@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/GauravKumar529/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GauravKumar529/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/GauravKumar529/Leetcode/tree/master/0547-number-of-provinces) |
 | [1300-critical-connections-in-a-network](https://github.com/GauravKumar529/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/GauravKumar529/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/GauravKumar529/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GauravKumar529/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GauravKumar529/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/GauravKumar529/Leetcode/tree/master/0547-number-of-provinces) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/GauravKumar529/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/GauravKumar529/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Queue
@@ -480,4 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GauravKumar529/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/GauravKumar529/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GauravKumar529/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/GauravKumar529/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/GauravKumar529/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
